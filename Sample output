@@ -1,0 +1,55 @@
+Values in fixed stack mystack1:                                                                                                                                                 
+mystack1[0] : 4                                                                                                                                                                 
+mystack1[1] : 3                                                                                                                                                                 
+mystack1[2] : 2                                                                                                                                                                 
+mystack1[3] : 1                                                                                                                                                                 
+mystack1[4] : 0                                                                                                                                                                 
+                                                                                                                                                                                
+Values in fixed stack mystack2:                                                                                                                                                 
+mystack2[0] : 7                                                                                                                                                                 
+mystack2[1] : 6                                                                                                                                                                 
+mystack2[2] : 5                                                                                                                                                                 
+mystack2[3] : 4                                                                                                                                                                 
+mystack2[4] : 3                                                                                                                                                                 
+mystack2[5] : 2                                                                                                                                                                 
+mystack2[6] : 1                                                                                                                                                                 
+mystack1[4] : 0                                                                                                                                                                 
+                                                                                                                                                                                
+Values in fixed stack mystack2:                                                                                                                                                 
+mystack2[0] : 7                                                                                                                                                                 
+mystack2[1] : 6                                                                                                                                                                 
+mystack2[2] : 5                                                                                                                                                                 
+mystack2[3] : 4                                                                                                                                                                 
+mystack2[4] : 3                                                                                                                                                                 
+mystack2[5] : 2                                                                                                                                                                 
+mystack2[6] : 1                                                                                                                                                                 
+mystack2[7] : 0                                                                                                                                                                 
+                                                                                                                                                                                
+Values in Variable stack s1                                                                                                                                                     
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+Stack is full. Extending Stack.                                                                                                                                                 
+                                                                                                                                             
+Variable Stack in varstack:                                                                                                                                                     
+varstack[0] : 14                                                                                                                                                                
+varstack[2] : 13     
+varstack[2] : 12                                                                                                                                                                
+varstack[3] : 11                                                                                                                                                                
+varstack[4] : 10                                                                                                                                                                
+varstack[5] : 9                                                                                                                                                                 
+varstack[6] : 8                                                                                                                                                                 
+varstack[7] : 7                                                                                                                                                                 
+varstack[8] : 6                                                                                                                                                                 
+varstack[9] : 5                                                                                                                                                                 
+varstack[10] : 4                                                                                                                                                                
+varstack[11] : 3                                                                                                                                                                
+varstack[12] : 2                                                                                                                                                                
+varstack[13] : 1                                                                                                                                                                
+varstack[14] : 0    
