@@ -1,6 +1,4 @@
 package Stack; //Abstact class
-package FixedStack;  //Program of Fixed  stack
-package VariableStack;//program for Variable stack
 public class stackmain{
     
 	public static void main(String args[]) 
